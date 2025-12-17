@@ -13,18 +13,7 @@ const pages = [
         image: null,
         imageAsset: null,
     },
-    // {
-    //     id: 1,
-    //     // title: "Gửi Bé Đẹp của Anh",
-    //     // content:
-    //     //     "Anh viết những dòng này để gửi đến em - người phụ nữ tuyệt vời của anh và 2 con nhỏ.",
-    //     // emoji: "💌",
-    //     bgGradient: "from-pink-100 to-rose-100",
-    //     // imageOverlayOpacity: 0.35,
-    //     // imageBlur: 6,r
-    //     image: null,
-    //     imageAsset: "images/IMG_2923.jpg",
-    // },
+
     {
         id: 1,
         title: "Ba la quăng Ngày Tháng Năm",
